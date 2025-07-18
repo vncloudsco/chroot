@@ -113,7 +113,7 @@ Môi trường chroot được tạo tại `/opt/secure_chroot/` với cấu tr�
 - User trong chroot không thể truy cập filesystem bên ngoài
 - Các process trong chroot bị hạn chế quyền
 - Network access có thể bị hạn chế tùy cấu hình
-- Không có quyền admin trong chroot
+- Không có quyền root trong chroot
 
 ## Troubleshooting
 
